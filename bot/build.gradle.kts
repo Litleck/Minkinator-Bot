@@ -37,5 +37,5 @@ dependencies {
     implementation("org.jetbrains.lets-plot:lets-plot-kotlin-jvm:4.9.0")
 
     implementation("space.kscience:kmath-ast:0.3.1")
-    implementation("org.bytedeco:ffmpeg-platform:6.1.1-1.5.10")
+    implementation("org.bytedeco:ffmpeg-platform:7.1-1.5.11")
 }
